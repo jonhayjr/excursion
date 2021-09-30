@@ -27,11 +27,20 @@ body {
     font-size: 42px;
 }
 
+.main__paragraph {
+    font-size: 21px;
+    color: gray;
+}
+
 .main__icon {
     display: block;
     margin-top: 1rem;
     margin-right: auto;
     margin-left: auto;
+}
+
+.main__heading2 {
+    margin-bottom: 2rem;
 }
 
 .footer {
